@@ -8,6 +8,7 @@ ensuring accurate and timely recording of student performance, which is essentia
 academic administration and student evaluation.
 
 System Overview:
+
 University of Sun Amakapasa Grade Encoding System is a comprehensive
 software application designed to simplify the process of encoding student grades for
 academic courses. This system provides a user-friendly interface for teachers to
