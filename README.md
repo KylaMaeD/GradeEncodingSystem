@@ -1,5 +1,7 @@
 # GradeEncodingSystem
 The University of Sun Amakapasa Grade Encoding System is a software application designed to streamline the process of encoding student grades. 
+
+
 ![GradeEncodingSystem](https://github.com/KylaMaeD/GradeEncodingSystem/assets/169108774/67c7edd7-60b5-4f0a-838b-f49391a5cda9)
 
 
