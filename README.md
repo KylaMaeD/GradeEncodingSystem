@@ -1,4 +1,4 @@
-# GradeEncodingSystem
+# USA Grade Encoding System
 The University of Sun Amakapasa Grade Encoding System is a software
 application designed to streamline the process of encoding student grades. This system
 aims to simplify the work of teachers by providing them with a convenient tool to add
